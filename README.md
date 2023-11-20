@@ -1,6 +1,6 @@
-### DeepLearning.AI Courses
+### DeepLearning.AI Short Courses
 
-- This repo contains my notes and codes for [DeepLearning AI's courses](https://learn.deeplearning.ai/). The code has been updated to incorporate the latest changes in OpenAI's libraries, such as the [V1 migration guide](https://github.com/openai/openai-python/discussions/742). I continuously add new content to reflect my progress. 🌱Feel free to learn and collaborate!
+- This repo contains my notes and codes for DeepLearning AI's limited time, free [Short Courses](https://www.deeplearning.ai/short-courses/). The code has been updated to incorporate the latest changes in OpenAI's libraries, such as the [V1 migration guide](https://github.com/openai/openai-python/discussions/742). I continuously add new content to reflect my progress. 🌱Feel free to learn and collaborate!
 
 ### 1. [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
 - Lessons 1 & 2: Introduction and Guidelines - Covering 2 principles and 6 tactics for effective prompts in LLM [[LINK]](https://github.com/naid3n/DeepLearningAI_Courses/blob/afc3b8b5f7961bfc04c0758de3329f66b59b865b/ChatGPT_Prompt_Engineering/Lesson%201-2%20Intro%20%26%20Guidelines.ipynb)
