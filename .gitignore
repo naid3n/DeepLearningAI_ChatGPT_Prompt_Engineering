@@ -2,4 +2,6 @@
 
 # Exclude .env file
 .env
+.DS_Store
+.gitignore
 
